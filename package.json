@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "test_node_app",
+  "version": "1.0.0",
+  "description": "This is a nodejs app that i have desgined to test if my nodejs with vercel is working or not. kya bolti public, bole toh taplik... amul macho, pehenke nacho",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bavnitsingh/test_nodejs.git"
+  },
+  "author": "The Greatest Programmer That Ever Lived - Bavnit Singh Chhabda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bavnitsingh/test_nodejs/issues"
+  },
+  "homepage": "https://github.com/Bavnitsingh/test_nodejs#readme"
+}
